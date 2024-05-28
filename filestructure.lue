@@ -1,0 +1,12 @@
+/Personal-Blog
+|-- /static
+|   |-- /images
+|       |-- avatar.png
+        |-- blog-image.png
+|-- /css
+|   |-- layout.css
+|   |-- main.css
+|   |-- typography.css
+|-- about.html
+|-- index.html
+|-- post.html
